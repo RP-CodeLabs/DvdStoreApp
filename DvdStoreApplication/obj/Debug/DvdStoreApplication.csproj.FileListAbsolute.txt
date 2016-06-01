@@ -4,3 +4,6 @@
 \\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreApplication\obj\Debug\DvdStoreApplication.exe
 \\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreApplication\obj\Debug\DvdStoreApplication.pdb
 \\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreApplication\obj\Debug\DvdStoreApplication.csprojResolveAssemblyReference.cache
+C:\Users\JayaRajesh\Desktop\Git\DVDSTORE\DvdStoreApp\DvdStoreApplication\bin\Debug\DvdStoreApplication.exe.config
+C:\Users\JayaRajesh\Desktop\Git\DVDSTORE\DvdStoreApp\DvdStoreApplication\obj\Debug\DvdStoreApplication.exe
+C:\Users\JayaRajesh\Desktop\Git\DVDSTORE\DvdStoreApp\DvdStoreApplication\obj\Debug\DvdStoreApplication.pdb
