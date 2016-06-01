@@ -58,7 +58,7 @@ namespace DvdStoreTest
 
             var ex = Assert.Catch<DvdNotFoundException>(() => serviceImlp.RetrieveDvd("DVD-999"));
 
-            Assert.AreEqual(ex.Message, "Unable to find dvd");
+            Assert.AreEqual(ex.Message, "Unable to find");
         }
 
         [TestCase]
