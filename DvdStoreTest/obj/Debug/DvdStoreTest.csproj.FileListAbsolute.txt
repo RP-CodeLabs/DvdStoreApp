@@ -1,0 +1,10 @@
+\\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreTest\bin\Debug\DvdStoreTest.dll
+\\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreTest\bin\Debug\DvdStoreTest.pdb
+\\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreTest\bin\Debug\DvdStoreApplication.exe
+\\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreTest\bin\Debug\nunit.framework.dll
+\\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreTest\bin\Debug\DvdStoreApplication.pdb
+\\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreTest\bin\Debug\nunit.framework.xml
+\\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreTest\obj\Debug\DvdStoreTest.csprojResolveAssemblyReference.cache
+\\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreTest\obj\Debug\DvdStoreTest.dll
+\\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreTest\obj\Debug\DvdStoreTest.pdb

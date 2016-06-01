@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdStoreApplication", "DvdStoreApplication\DvdStoreApplication.csproj", "{580F7911-7EF2-4AB1-81A1-70F3AB061066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdStoreTest", "DvdStoreTest\DvdStoreTest.csproj", "{3FD5F791-BECE-478F-8AE5-EAF015AAAFBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{580F7911-7EF2-4AB1-81A1-70F3AB061066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580F7911-7EF2-4AB1-81A1-70F3AB061066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580F7911-7EF2-4AB1-81A1-70F3AB061066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580F7911-7EF2-4AB1-81A1-70F3AB061066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD5F791-BECE-478F-8AE5-EAF015AAAFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD5F791-BECE-478F-8AE5-EAF015AAAFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD5F791-BECE-478F-8AE5-EAF015AAAFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD5F791-BECE-478F-8AE5-EAF015AAAFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

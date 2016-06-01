@@ -1,0 +1,6 @@
+\\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreApplication\bin\Debug\DvdStoreApplication.exe.config
+\\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreApplication\bin\Debug\DvdStoreApplication.exe
+\\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreApplication\bin\Debug\DvdStoreApplication.pdb
+\\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreApplication\obj\Debug\DvdStoreApplication.exe
+\\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreApplication\obj\Debug\DvdStoreApplication.pdb
+\\INSURANCE\FileData\SiteHome\IT\RPonnam\RP\Training\DvdApp\DvdStoreApplication\DvdStoreApplication\obj\Debug\DvdStoreApplication.csprojResolveAssemblyReference.cache
