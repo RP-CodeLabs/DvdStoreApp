@@ -10,6 +10,10 @@ namespace DvdStoreApplication
     {
         static void Main(string[] args)
         {
+            var dvdServiceImplementation = new DvdServiceImpl();
+            var summary = dvdServiceImplementation.GetDvdSummary("DVD-TG423");
+            Console.WriteLine($"Dvd Summary : {summary}");
+            Console.ReadLine();
         }
     }
 }
